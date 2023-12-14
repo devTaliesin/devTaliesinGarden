@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-project/igil-device-firmware/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-project/igil-device-firmware/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.560+09:00","updated":"2023-12-14T17:17:57.857+09:00"}
 ---
 
 
