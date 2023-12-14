@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/react-native/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/react-native/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.595+09:00","updated":"2023-12-14T17:41:35.186+09:00"}
 ---
 
 # What is React-Natice
