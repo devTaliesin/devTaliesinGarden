@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/java/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/java/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.582+09:00","updated":"2023-12-14T17:26:03.044+09:00"}
 ---
 
 # Structure
