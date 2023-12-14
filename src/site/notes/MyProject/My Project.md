@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-project/my-project/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-project/my-project/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.564+09:00","updated":"2023-12-14T17:18:44.698+09:00"}
 ---
 
 [[My PARA\|My PARA]]
