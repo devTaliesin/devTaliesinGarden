@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-project/express-routing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-project/express-routing/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.559+09:00","updated":"2023-12-14T17:17:56.431+09:00"}
 ---
 
 # What Is Routing
