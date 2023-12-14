@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dayily-note/dayily-note/","dgPassFrontmatter":true,"created":"2023-12-14T17:46:14.373+09:00","updated":"2023-12-14T17:54:58.276+09:00"}
+{"dg-publish":true,"permalink":"/dayily-note/dayily-note/","dgPassFrontmatter":true,"created":"2023-12-14T17:46:14.373+09:00","updated":"2023-12-14T18:43:19.398+09:00"}
 ---
 
 # List
@@ -11,6 +11,5 @@
 - [[DayilyNote/2023-12-04\|2023-12-04]]
 - [[DayilyNote/2023-12-06\|2023-12-06]]
 - [[DayilyNote/2023-12-14\|2023-12-14]]
-- [[DayilyNote/DayilyNote\|DayilyNote]]
 
 { .block-language-dataview}
