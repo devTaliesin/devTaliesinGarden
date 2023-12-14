@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-project/i-gil-mobile-app/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-project/i-gil-mobile-app/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.562+09:00","updated":"2023-12-14T17:21:56.835+09:00"}
 ---
 
 
