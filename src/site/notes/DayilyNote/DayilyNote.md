@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dayily-note/dayily-note/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/dayily-note/dayily-note/","dgPassFrontmatter":true,"created":"2023-12-14T17:46:14.373+09:00","updated":"2023-12-14T17:54:58.276+09:00"}
 ---
 
 # List
