@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/express/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/express/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.579+09:00","updated":"2023-12-14T17:40:16.098+09:00"}
 ---
 
 # What is Express
