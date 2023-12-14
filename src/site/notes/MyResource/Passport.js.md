@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/passport-js/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/passport-js/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.593+09:00","updated":"2023-12-14T17:40:56.792+09:00"}
 ---
 
 # What Is Passport
