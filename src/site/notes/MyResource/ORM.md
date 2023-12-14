@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/orm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/orm/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.592+09:00","updated":"2023-12-14T17:39:49.253+09:00"}
 ---
 
 # What Is ORM
