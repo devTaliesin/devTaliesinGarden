@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/micro-python/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/micro-python/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.586+09:00","updated":"2023-12-14T17:37:14.926+09:00"}
 ---
 
 # micropy-cli
