@@ -1,40 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/my-resource/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.587+09:00","updated":"2023-12-14T18:22:17.410+09:00"}
+{"dg-publish":true,"permalink":"/my-resource/my-resource/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.587+09:00","updated":"2023-12-14T18:39:07.949+09:00"}
 ---
 
 [[My PARA\|My PARA]]
 # List
 - [[MyResource/ALPR Program\|ALPR Program]]
 - [[MyResource/Android Studio\|Android Studio]]
-- [[MyResource/Mobile App Framework\|Mobile App Framework]]
-- [[MyResource/App Router\|App Router]]
 - [[MyResource/Backend Framework\|Backend Framework]]
+- [[MyResource/App Router\|App Router]]
 - [[MyResource/CMake\|CMake]]
 - [[MyResource/ESLint\|ESLint]]
 - [[MyResource/Express\|Express]]
 - [[MyResource/Frontend Framework\|Frontend Framework]]
-- [[MyResource/I2S2\|I2S2]]
 - [[MyResource/JAVA\|JAVA]]
+- [[MyResource/I2S2\|I2S2]]
 - [[MyResource/Jetson Nano\|Jetson Nano]]
 - [[MyResource/Login & Sign\|Login & Sign]]
 - [[MyResource/MicroPython\|MicroPython]]
+- [[MyResource/Mobile App Framework\|Mobile App Framework]]
 - [[MyResource/MySql\|MySql]]
-- [[MyResource/Next.js\|Next.js]]
 - [[MyResource/Node.js\|Node.js]]
-- [[MyResource/ORM\|ORM]]
 - [[MyResource/Passport.js\|Passport.js]]
 - [[MyResource/QtFramework\|QtFramework]]
-- [[MyResource/React-Native\|React-Native]]
+- [[MyResource/Next.js\|Next.js]]
+- [[MyResource/ORM\|ORM]]
 - [[MyResource/REST API\|REST API]]
+- [[MyResource/React-Native\|React-Native]]
 - [[MyResource/SDIO\|SDIO]]
 - [[MyResource/Socket.IO\|Socket.IO]]
 - [[MyResource/SSR\|SSR]]
 - [[MyResource/STM32\|STM32]]
-- [[MyResource/STM32CubeCLT\|STM32CubeCLT]]
 - [[MyResource/STM32CubeMX\|STM32CubeMX]]
+- [[MyResource/STM32CubeCLT\|STM32CubeCLT]]
 - [[MyResource/STMCUFinder\|STMCUFinder]]
 - [[MyResource/TemplateEngine\|TemplateEngine]]
 - [[MyResource/TypeScript\|TypeScript]]
-- [[MyResource/Vue.js\|Vue.js]]
 - [[MyResource/WebSocket\|WebSocket]]
+- [[MyResource/Vue.js\|Vue.js]]
+
+{ .block-language-dataview}
 
