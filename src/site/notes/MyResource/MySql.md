@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/my-sql/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/my-sql/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.588+09:00","updated":"2023-12-14T17:37:39.258+09:00"}
 ---
 
 
