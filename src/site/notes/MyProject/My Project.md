@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-project/my-project/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.564+09:00","updated":"2023-12-14T17:18:44.698+09:00"}
+{"dg-publish":true,"permalink":"/my-project/my-project/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.564+09:00","updated":"2023-12-14T18:40:07.110+09:00"}
 ---
 
 [[My PARA\|My PARA]]
@@ -9,3 +9,5 @@
 - [[MyProject/IGIL DEVICE FIRMWARE\|IGIL DEVICE FIRMWARE]]
 - [[MyProject/IGil Mobile APP\|IGil Mobile APP]]
 - [[MyProject/Multi-Equipment Integrated Control System\|Multi-Equipment Integrated Control System]]
+
+{ .block-language-dataview}
