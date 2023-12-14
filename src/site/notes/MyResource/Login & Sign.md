@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/login-and-sign/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/login-and-sign/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.585+09:00","updated":"2023-12-14T17:36:42.388+09:00"}
 ---
 
 
