@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/alpr-program/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/my-resource/alpr-program/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.571+09:00","updated":"2023-12-14T17:19:21.473+09:00"}
 ---
 
 # ALPR Program Structure
