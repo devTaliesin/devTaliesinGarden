@@ -15,7 +15,7 @@
 ## [[npm\|npm]] install express
 
 
-## [[MyProject/ExpressRouting\|ExpressRouting]]
+## [[MyResource/ExpressRouting\|ExpressRouting]]
 
 # Extension
 ## Middleware
