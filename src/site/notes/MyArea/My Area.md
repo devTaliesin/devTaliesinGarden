@@ -5,5 +5,6 @@
 [[My PARA\|MY PARA]]
 ## List
 - [[MyArea/수배차량 망 연계 유지보수\|수배차량 망 연계 유지보수]]
+- [[MyArea/외주 개발 플랫폼 관리\|외주 개발 플랫폼 관리]]
 
 { .block-language-dataview}
