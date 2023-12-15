@@ -11,5 +11,6 @@
 - [[DayilyNote/2023-12-04\|2023-12-04]]
 - [[DayilyNote/2023-12-06\|2023-12-06]]
 - [[DayilyNote/2023-12-14\|2023-12-14]]
+- [[DayilyNote/2023-12-15\|2023-12-15]]
 
 { .block-language-dataview}
