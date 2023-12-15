@@ -1,5 +1,5 @@
 ---
-{"tags":null,"dg-publish":true,"permalink":"/my-resource/vue-js/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.607+09:00","updated":"2023-12-14T18:22:28.177+09:00"}
+{"tags":null,"dg-publish":true,"permalink":"/my-resource/vue-js/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.607+09:00","updated":"2023-12-15T13:18:22.083+09:00"}
 ---
 
 # Dependency
@@ -43,10 +43,80 @@
 ## Script
 ## Template
 ## Style
-
+# Assets
+# Components
 # Router
 # Stores
-# View
+## What is Pinia
+ - Vue3에서 필요한 최신 State 관리 라이브러리
+## Pinia Cheat Sheet
+### Initialize Pinia for your app
+```js  
+/*
+src/main.js
+*/
+
+import { createPinia } from 'pinia' createApp(App).use(createPinia()).mount('#app')
+```
+### Define the store
+``` js
+/*
+src/stores/ProductStore.js
+*/
+import { defineStore } from 'pinia' 
+										/*a unique name*/
+export const useProductStore = defineStore('product', {
+	state: () => ({
+					/*state 초기화*/
+		products: [ /*Product, Product, Product*/] 
+	}), 
+	getters: {  /*parameter를 통해 state 접근*/
+		productCount(state) { 
+			return state.products.length 
+		}, 
+		productsCheaperThan(state) { 
+			return (price) => ( /*인수를 받을 수 있지만 대신 함수를 반환*/
+				state.products.filter(product => 
+					product.price < price 
+				) 
+			) 
+			} 
+	}, 
+	actions: { /*actions을 사용해 state 변경*/
+		addProduct(/*Product*/) { 
+			<access the state with this>
+			this.products.push(Product) 
+		} 
+	} 
+})t
+```
+### Use the Store (Composition API)
+```vue
+/*
+src/App.vue
+*/
+<script setup>
+import { useProductStore } from './stores/ProductStore'
+
+const store = useProductStore() /*store instance 생성*/
+</script>
+
+<template>
+	<ul>
+		<li v-for="product in store.products"> /*store 경로 접근*/
+		...
+		</li>
+	</ul>
+	<p>{{ store.productCount }}</p>
+	<ul>
+		<li v-for="product in store.productsCheaperThan(10)">
+		...
+		</li>
+	</ul>
+	 <button @click="store.addProduct(Product))">Add
+	...
+```
+# Views
 
 # Structure of Vue.js
 ``` 
