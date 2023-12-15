@@ -37,6 +37,7 @@
 - [[MyResource/Vue.js\|Vue.js]]
 - [[MyResource/WebSocket\|WebSocket]]
 - [[MyResource/ESLint\|ESLint]]
+- [[MyResource/ExpressRouting\|ExpressRouting]]
 
 { .block-language-dataview}
 
