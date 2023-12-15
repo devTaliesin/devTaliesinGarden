@@ -4,6 +4,6 @@
 
 [[My PARA\|My PARA]]
 ## List
-- [[MyArchive/스마트 물류 영상관리 솔루션\|스마트 물류 영상관리 솔루션]]
+- [[MyArchive/LgisticsManagementSolution\|LgisticsManagementSolution]]
 
 { .block-language-dataview}
