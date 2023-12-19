@@ -7,7 +7,7 @@
 ## 일간 / 주간 / 월간 체크리스트 팝업
 ## PDF 디스플레이
 ## HTTP 디스플레이 및 제어
-### [[MyResource/QtFramework\|QtFramework]] : PySide6.QtWebEngineWidgets
+### [[MyResource/Python/Framework/QtFramework\|QtFramework]] : PySide6.QtWebEngineWidgets
 ## UI 제작
 ### 체크리스트 페이지
 ### 메인페이지
