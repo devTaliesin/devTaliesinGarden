@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/java-script/java-script/","dgPassFrontmatter":true,"created":"2023-12-19T11:16:23.875+09:00","updated":"2023-12-19T11:19:08.594+09:00"}
+{"dg-publish":true,"permalink":"/my-resource/java-script/java-script/","dgPassFrontmatter":true,"created":"2023-12-19T11:16:23.875+09:00","updated":"2023-12-19T15:40:31.240+09:00"}
 ---
 
 # List
@@ -10,8 +10,8 @@
 - [[MyResource/JavaScript/Framework/Next.js\|Next.js]]
 - [[MyResource/JavaScript/Library/App Router\|App Router]]
 - [[MyResource/JavaScript/Library/ExpressRouting\|ExpressRouting]]
-- [[MyResource/JavaScript/Library/Passport.js\|Passport.js]]
 - [[MyResource/JavaScript/Library/Library\|Library]]
+- [[MyResource/JavaScript/Library/Passport.js\|Passport.js]]
 - [[MyResource/JavaScript/Library/Socket.IO\|Socket.IO]]
 - [[MyResource/JavaScript/Node.js\|Node.js]]
 - [[MyResource/JavaScript/TypeScript\|TypeScript]]
