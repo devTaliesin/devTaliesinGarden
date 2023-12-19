@@ -13,11 +13,9 @@
 - [[MyResource/Embedded/RpiPico/MicroPython\|MicroPython]]
 - [[MyResource/Embedded/STM32/STM32\|STM32]]
 - [[MyResource/Embedded/STM32/STM32CubeCLT\|STM32CubeCLT]]
-- [[MyResource/Embedded/STM32/STMCUFinder\|STMCUFinder]]
 - [[MyResource/Embedded/STM32/STM32CubeMX\|STM32CubeMX]]
+- [[MyResource/Embedded/STM32/STMCUFinder\|STMCUFinder]]
 - [[MyResource/JAVA/JAVA\|JAVA]]
-- [[MyResource/Mobile/Android Studio\|Android Studio]]
-- [[MyResource/Mobile/Mobile App Framework\|Mobile App Framework]]
 - [[MyResource/JavaScript/ESLint\|ESLint]]
 - [[MyResource/JavaScript/Framework/Backend/Express\|Express]]
 - [[MyResource/JavaScript/Framework/Frontend/React-Native\|React-Native]]
@@ -31,6 +29,8 @@
 - [[MyResource/JavaScript/Library/Socket.IO\|Socket.IO]]
 - [[MyResource/JavaScript/Node.js\|Node.js]]
 - [[MyResource/JavaScript/TypeScript\|TypeScript]]
+- [[MyResource/Mobile/Android Studio\|Android Studio]]
+- [[MyResource/Mobile/Mobile App Framework\|Mobile App Framework]]
 - [[MyResource/Python/ALPR Program\|ALPR Program]]
 - [[MyResource/Python/Framework/QtFramework\|QtFramework]]
 - [[MyResource/Python/Python\|Python]]
@@ -40,8 +40,8 @@
 - [[MyResource/Web/REST API\|REST API]]
 - [[MyResource/Web/SSR\|SSR]]
 - [[MyResource/Web/TemplateEngine\|TemplateEngine]]
-- [[MyResource/Web/WebSocket\|WebSocket]]
 - [[MyResource/Web/Web\|Web]]
+- [[MyResource/Web/WebSocket\|WebSocket]]
 
 { .block-language-dataview}
 
