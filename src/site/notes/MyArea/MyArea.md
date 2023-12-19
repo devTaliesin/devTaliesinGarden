@@ -4,7 +4,7 @@
 
 [[MyPARA\|MyPARA]]
 ## List
-- [[MyArea/NetworkConnectedMaintenance\|NetworkConnectedMaintenance]]
 - [[MyArea/OutsourcingPlatformManagement\|OutsourcingPlatformManagement]]
+- [[MyArea/NetworkConnectedMaintenance\|NetworkConnectedMaintenance]]
 
 { .block-language-dataview}
