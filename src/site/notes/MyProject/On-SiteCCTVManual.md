@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-project/on-site-cctv-manual/","dgPassFrontmatter":true,"created":"2023-12-15T13:27:57.542+09:00","updated":"2023-12-15T17:27:23.337+09:00"}
+{"dg-publish":true,"permalink":"/my-project/on-site-cctv-manual/","dgPassFrontmatter":true,"created":"2023-12-15T13:27:57.542+09:00","updated":"2023-12-15T17:30:16.187+09:00"}
 ---
 
 # 항목선정
@@ -42,7 +42,7 @@ Sharpness 값이 조절로 흐림이 심해 보정해 할 때에 Sharpness 값�
 노이즈 보정을 위해 Sharpness 값 대신 3DNR 값을 높인다.
  - 3DNR 값은 고스트 현상 발생 빈도와 정비례한다. 
 # 목차작성
->[!note] HTTP Method 종류목차
+>[!note] 목차
 >```
 >목차
 >개요
