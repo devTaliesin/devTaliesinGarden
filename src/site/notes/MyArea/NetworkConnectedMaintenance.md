@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-area/network-connected-maintenance/","dgPassFrontmatter":true,"created":"2023-12-14T17:29:02.645+09:00","updated":"2023-12-15T11:50:22.590+09:00"}
+{"dg-publish":true,"permalink":"/my-area/network-connected-maintenance/","dgPassFrontmatter":true,"created":"2023-12-14T17:29:02.645+09:00","updated":"2023-12-19T15:44:17.938+09:00"}
 ---
 
 # 개요
