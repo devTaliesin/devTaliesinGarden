@@ -1,0 +1,47 @@
+---
+{"dg-publish":true,"permalink":"/my-resource/my-resource/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.587+09:00","updated":"2023-12-19T12:18:17.659+09:00"}
+---
+
+[[MyPARA\|MyPARA]]
+# List
+- [[MyResource/Python/Python\|Python]]
+- [[MyResource/Python/ALPR Program\|ALPR Program]]
+- [[MyResource/Python/Framework/QtFramework\|QtFramework]]
+- [[MyResource/JavaScript/JavaScript\|JavaScript]]
+- [[MyResource/JavaScript/TypeScript\|TypeScript]]
+- [[MyResource/JavaScript/Node.js\|Node.js]]
+- [[MyResource/JavaScript/Framework/Frontend/Vue.js\|Vue.js]]
+- [[MyResource/JavaScript/Framework/Frontend/React-Native\|React-Native]]
+- [[MyResource/JavaScript/Framework/Backend/Express\|Express]]
+- [[MyResource/JavaScript/Framework/Next.js\|Next.js]]
+- [[MyResource/JavaScript/Library/Library\|Library]]
+- [[MyResource/JavaScript/Library/Socket.IO\|Socket.IO]]
+- [[MyResource/JavaScript/Library/ExpressRouting\|ExpressRouting]]
+- [[MyResource/JavaScript/Library/App Router\|App Router]]
+- [[MyResource/JavaScript/Library/Passport.js\|Passport.js]]
+- [[MyResource/JavaScript/ESLint\|ESLint]]
+- [[MyResource/Embedded/Embedded\|Embedded]]
+- [[MyResource/Embedded/STM32/STM32\|STM32]]
+- [[MyResource/Embedded/STM32/STM32CubeCLT\|STM32CubeCLT]]
+- [[MyResource/Embedded/STM32/STM32CubeMX\|STM32CubeMX]]
+- [[MyResource/Embedded/STM32/STMCUFinder\|STMCUFinder]]
+- [[MyResource/Embedded/RpiPico/MicroPython\|MicroPython]]
+- [[MyResource/Embedded/JetsonNano/Jetson Nano\|Jetson Nano]]
+- [[MyResource/DataBase/DataBase\|DataBase]]
+- [[MyResource/DataBase/MySql\|MySql]]
+- [[MyResource/DataBase/ORM\|ORM]]
+- [[MyResource/Web/Backend Framework\|Backend Framework]]
+- [[MyResource/Web/Frontend Framework\|Frontend Framework]]
+- [[MyResource/Web/REST API\|REST API]]
+- [[MyResource/Web/SSR\|SSR]]
+- [[MyResource/Web/Auth\|Auth]]
+- [[MyResource/Web/TemplateEngine\|TemplateEngine]]
+- [[MyResource/Web/WebSocket\|WebSocket]]
+- [[MyResource/Web/Web\|Web]]
+- [[MyResource/Mobile/Mobile App Framework\|Mobile App Framework]]
+- [[MyResource/Mobile/Android Studio\|Android Studio]]
+- [[MyResource/C-CPP/CMake\|CMake]]
+- [[MyResource/JAVA/JAVA\|JAVA]]
+
+{ .block-language-dataview}
+
