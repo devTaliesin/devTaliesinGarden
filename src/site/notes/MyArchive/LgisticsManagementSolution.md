@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-archive//","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.545+09:00","updated":"2023-12-14T17:44:07.736+09:00"}
+{"dg-publish":true,"permalink":"/my-archive/lgistics-management-solution/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.545+09:00","updated":"2023-12-19T15:44:12.529+09:00"}
 ---
 
 # 물자이동 통로 관리 : 카운팅, 동선, 주유간 등을 통한 복잡도 산출 

@@ -5,7 +5,7 @@
 # IDE
 - VS Code 
 # Dependency
-- [[MyResource/STM32CubeMX\|STM32CubeMX]]
-- [[MyResource/STM32CubeCLT\|STM32CubeCLT]]
-- [[MyResource/STMCUFinder\|STMCUFinder]]
+- [[MyResource/Embedded/STM32/STM32CubeMX\|STM32CubeMX]]
+- [[MyResource/Embedded/STM32/STM32CubeCLT\|STM32CubeCLT]]
+- [[MyResource/Embedded/STM32/STMCUFinder\|STMCUFinder]]
 

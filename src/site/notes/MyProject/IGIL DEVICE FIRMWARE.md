@@ -4,7 +4,7 @@
 
 
 # 개발환경
-## [[MyResource/MicroPython\|MicroPython]]
+## [[MyResource/Embedded/RpiPico/MicroPython\|MicroPython]]
 
 
 # 요구사항
