@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/mobile/android-studio/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.572+09:00","updated":"2023-12-14T17:20:14.769+09:00"}
+{"dg-publish":true,"permalink":"/my-resource/mobile/android-studio/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.572+09:00","updated":"2023-12-19T15:40:16.843+09:00"}
 ---
 
 # Setting for Vertual Device 
