@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-resource/web/web-socket/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.608+09:00","updated":"2023-12-19T15:39:57.597+09:00"}
+{"dg-publish":true,"permalink":"/my-resource/web/web-socket/","dgPassFrontmatter":true,"created":"2023-12-13T17:50:08.608+09:00","updated":"2023-12-19T15:42:28.602+09:00"}
 ---
 
 # What is WebSocket
