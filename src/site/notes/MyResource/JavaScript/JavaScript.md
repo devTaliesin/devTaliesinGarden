@@ -10,10 +10,10 @@
 - [[MyResource/JavaScript/Framework/Frontend/Vue.js\|Vue.js]]
 - [[MyResource/JavaScript/Library/App Router\|App Router]]
 - [[MyResource/JavaScript/Library/ExpressRouting\|ExpressRouting]]
-- [[MyResource/JavaScript/Library/Passport.js\|Passport.js]]
 - [[MyResource/JavaScript/Library/Library\|Library]]
 - [[MyResource/JavaScript/Library/Socket.IO\|Socket.IO]]
-- [[MyResource/JavaScript/TypeScript\|TypeScript]]
+- [[MyResource/JavaScript/Library/Passport.js\|Passport.js]]
 - [[MyResource/JavaScript/Node.js\|Node.js]]
+- [[MyResource/JavaScript/TypeScript\|TypeScript]]
 
 { .block-language-dataview}
