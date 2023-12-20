@@ -6,8 +6,8 @@
 - [[MyResource/Web/Auth\|Auth]]
 - [[MyResource/Web/Backend Framework\|Backend Framework]]
 - [[MyResource/Web/Frontend Framework\|Frontend Framework]]
-- [[MyResource/Web/REST API\|REST API]]
 - [[MyResource/Web/SSR\|SSR]]
+- [[MyResource/Web/REST API\|REST API]]
 - [[MyResource/Web/TemplateEngine\|TemplateEngine]]
 - [[MyResource/Web/WebSocket\|WebSocket]]
 
